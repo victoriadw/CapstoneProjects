@@ -1,0 +1,19 @@
+Users Overview
+
+Total number of registered users: 2
+
+admin tasks overview:
+Number of tasks assigned to admin: 2
+Percentage of total number of tasks assigned: 66%
+Percentage of tasks assigned that have been completed: 50%
+Percentage of tasks assigned that have not been completed: 50%
+Percentage of tasks assigned that are overdue: 50%
+
+victoria tasks overview:
+Number of tasks assigned to victoria: 1
+Percentage of total number of tasks assigned: 33%
+Percentage of tasks assigned that have been completed: 0%
+Percentage of tasks assigned that have not been completed: 100%
+Percentage of tasks assigned that are overdue: 100%
+
+-----------------------------------
