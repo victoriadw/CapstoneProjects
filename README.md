@@ -30,6 +30,8 @@ This project is an exploratory data analysis on the [Forbes Richest Athletes dat
 Navigate to the master branch, open folder **T36/Capstone_IV** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
 
 ### Usage
+You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. Furthermore, there is a written report amongst the files called [EDA_Capstone_IV](T36/Capstone_IV/EDA_Capstone_IV.pdf), containing a detailed review of the analysis. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish. 
+
 
 ## Task 39 (Capstone V)
 This project is a database designed to be used by a bootstore clerk. The user can add new books to the database, update book information, delete books, search for a book, and to view the entire database. This programme was made using the sqlite3 Python module. 
@@ -38,7 +40,7 @@ This project is a database designed to be used by a bootstore clerk. The user ca
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
 
 ### Usage
-You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. Furthermore, there is a written report amongst the files called [EDA_Capstone_IV](T36/Capstone_IV/EDA_Capstone_IV.pdf), containing a detailed review of the analysis. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish. 
+You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. 
 
 ## Task 51 (Capstone VII)
 This project is an analysis on the [USArrests dataset](T51/Capstone_VII/UsArrests.csv), using Principal Components Analysis (PCA) and machine learning methods (hierarchical clustering, *k*-means clustering). 
