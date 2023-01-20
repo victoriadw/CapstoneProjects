@@ -53,7 +53,17 @@ This project is a database designed to be used by a bootstore clerk. The user ca
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
 
 ### Usage
-You can view the complete analysis by simply opening [Capstone_VII.ipynb](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/Capstone_VII.ipynb) on github. 
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_main_menu.png)
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_full_database.png)
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_add_book.png)
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/master/T53/imgs/T39_search_book.png)
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/master/T53/imgs/T39_delete_book.png)
+
 
 ## Task 51 (Capstone VII)
 This project is an analysis on the [USArrests dataset](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/UsArrests.csv), using Principal Components Analysis (PCA) and machine learning methods (hierarchical clustering, *k*-means clustering). 
@@ -62,7 +72,7 @@ This project is an analysis on the [USArrests dataset](https://github.com/victor
 Navigate to the master branch, open folder **T51/Capstone_VII** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
 
 ### Usage
-You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish.
+You can view the complete analysis by simply opening [Capstone_VII.ipynb](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/Capstone_VII.ipynb) on github. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish.
 
 ## Acknowledgements
 This project was created by Victoria Daramy-Williams, using the resources provided by HyperionDev.
