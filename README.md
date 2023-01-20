@@ -56,7 +56,7 @@ Navigate to the master branch, open folder **T39/Capstone_V** and download its c
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_main_menu.png)
 
-![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_full_database.png)
+![](https://github.com/victoriadw/CapstoneProjects/blob/27cd751efeeb3c8a8d03cfb905f5d577f2f28813/T53/imgs/T39_whole_database.png)
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_add_book.png)
 
