@@ -25,7 +25,13 @@ You can use the login details of the "admin" user to access the programme (usern
 
 As an example, users can view their tasks by entering `vm` into the terminal.
 
-![](https://github.com/victoriadw/CapstoneProjects/blob/dc89c97a4f264e04655d2c71cfeff89e9b093360/T53/imgs/T21_view_tasks.png)
+![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T21_view_tasks.png)
+
+The user can then select one of their tasks and choose to mark the task as completed.
+
+Another example of the programme's functionality is to view the task and user statistics by entering `ds`.
+
+![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T21_display_statistics.png)
 
 ### Additional notes
 This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
