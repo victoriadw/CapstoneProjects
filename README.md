@@ -23,6 +23,9 @@ You can use the login details of the "admin" user to access the programme (usern
 
 {screenshot here}
 
+### Additional notes
+This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
+
 ## Task 36 (Capstone IV)
 This project is an exploratory data analysis on the [Forbes Richest Athletes dataset](T36/Capstone_IV/fra.csv). 
 
