@@ -37,13 +37,13 @@ Another example of the programme's functionality is to view the task and user st
 This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
 
 ## Task 36 (Capstone IV)
-This project is an exploratory data analysis on the [Forbes Richest Athletes dataset](T36/Capstone_IV/fra.csv). 
+This project is an exploratory data analysis on the [Forbes Richest Athletes dataset](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T36/Capstone_IV/fra.csv). 
 
 ### Installation instructions
 Navigate to the master branch, open folder **T36/Capstone_IV** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
 
 ### Usage
-You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. Furthermore, there is a written report amongst the files called [EDA_Capstone_IV](T36/Capstone_IV/EDA_Capstone_IV.pdf), containing a detailed review of the analysis. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish. 
+You can view the complete analysis by simply opening [Capstone IV - Atheletes.ipynb](https://github.com/victoriadw/CapstoneProjects/blob/master/T36/Capstone_IV/Capstone%20IV%20-%20Athletes.ipynb) on github. Furthermore, there is a written report amongst the files called [EDA_Capstone_IV](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T36/Capstone_IV/EDA_Capstone_IV.pdf), containing a detailed review of the analysis. However, if you would like to make changes to the code, simply follow the installation instructions above and edit the code as you wish. 
 
 
 ## Task 39 (Capstone V)
@@ -53,10 +53,10 @@ This project is a database designed to be used by a bootstore clerk. The user ca
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
 
 ### Usage
-You can view the complete analysis by simply opening [Capstone_VII.ipynb](T51/Capstone_VII/Capstone_VII.ipynb) on github. 
+You can view the complete analysis by simply opening [Capstone_VII.ipynb](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/Capstone_VII.ipynb) on github. 
 
 ## Task 51 (Capstone VII)
-This project is an analysis on the [USArrests dataset](T51/Capstone_VII/UsArrests.csv), using Principal Components Analysis (PCA) and machine learning methods (hierarchical clustering, *k*-means clustering). 
+This project is an analysis on the [USArrests dataset](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/UsArrests.csv), using Principal Components Analysis (PCA) and machine learning methods (hierarchical clustering, *k*-means clustering). 
 
 ### Installation instructions
 Navigate to the master branch, open folder **T51/Capstone_VII** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
