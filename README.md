@@ -17,13 +17,15 @@ Navigate to the master branch, open folder **T21/Capstone_II** and download its 
 ### Usage
 Open the file **task_manager.py** in a suitable IDE and run the programme, ensuring that the downloaded .txt files are also in the working directory. Run the programme.
 
-![Login](T53/imgs/T21_login.png)
+![](https://github.com/victoriadw/CapstoneProjects/blob/364de590b1315d23e3c184be83684165d3c8a2f7/T53/imgs/T21_login.png)
 
 You can use the login details of the "admin" user to access the programme (username: admin, password: adm1n). The username and password details for users on the programme are stored in the text file **user.txt**. You will now be able to access the rest of the programme. Navigate through the programme by entering the relevant options as displayed on the terminal. 
 
+![](https://github.com/victoriadw/CapstoneProjects/blob/dc89c97a4f264e04655d2c71cfeff89e9b093360/T53/imgs/T21_menu.png)
 
+As an example, users can view their tasks by entering `vm` into the terminal.
 
-{screenshot here}
+![](https://github.com/victoriadw/CapstoneProjects/blob/dc89c97a4f264e04655d2c71cfeff89e9b093360/T53/imgs/T21_view_tasks.png)
 
 ### Additional notes
 This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
