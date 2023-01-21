@@ -42,6 +42,8 @@ Another example of the programme's functionality is to view the task and user st
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T21_display_statistics.png)
 
+(conclusion texts?)
+
 ### Additional notes
 This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
 
@@ -56,7 +58,7 @@ You can view the complete analysis by simply opening [Capstone IV - Atheletes.ip
 
 
 ## Task 39 (Capstone V)
-This project is a database designed to be used by a bootstore clerk. The user can add new books to the database, update book information, delete books, search for a book, and to view the entire database. This programme was made using the sqlite3 Python module. 
+This project is a database designed to be used by a bootstore clerk. The user can add new books to the database, update book information (name, author, or quantity), delete books, search for a book, and to view the entire database. This programme was made using the sqlite3 Python module. 
 
 ### Installation
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
@@ -68,11 +70,19 @@ You will be confronted with the main menu, as below:
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_main_menu.png)
 
+The contents of the entire database can be viewed by entering `5` into the terminal:
+
 ![](https://github.com/victoriadw/CapstoneProjects/blob/27cd751efeeb3c8a8d03cfb905f5d577f2f28813/T53/imgs/T39_whole_database.png)
+
+The user can add a book to the database by entering `1`, entering the details as prompted, and then confirming whether they would like to add the book.
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_add_book.png)
 
+The database can also be searched, by book ID, title, or author. In this example the user enters "Dahl" and all books by authors containing that name appear in the search results.
+
 ![](https://github.com/victoriadw/CapstoneProjects/blob/master/T53/imgs/T39_search_book.png)
+
+A book can be deleted from the database by entering the book ID, which the user can find out by accessing the database information using one of the functions above. The user is prompted to enter the ID, and then confirm whether they would like to delete the record.
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/master/T53/imgs/T39_delete_book.png)
 
