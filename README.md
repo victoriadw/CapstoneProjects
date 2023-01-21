@@ -2,16 +2,25 @@
 This repository contains some of the Capstone projects I completed during my Data Science bootcamp with HyperionDev. Access the files by navigating to the [master](https://github.com/victoriadw/CapstoneProjects/tree/master) branch. All programmes have been written in Python.
 
 ## Contents
-1. T21 / **Capstone II** - Lists, Functions, and String Handling
-2. T36 / **Capstone IV** - Exploratory Data Analysis
-3. T39 / **Capstone V** - Databases (SQLite)
-4. T51 / **Capstone VII** - Unsupervised Machine Learning & Principal Component Analysis
-5. Acknowledgements
+- T21 / **Capstone II** - Lists, Functions, and String Handling
+  - Installation
+  - Usage
+  - Additional notes
+- T36 / **Capstone IV** - Exploratory Data Analysis
+  - Installation
+  - Usage
+- T39 / **Capstone V** - Databases (SQLite)
+  - Installation
+  - Usage
+- T51 / **Capstone VII** - Unsupervised Machine Learning & Principal Component Analysis
+  - Installation
+  - Usage
+- Acknowledgements
 
 ## Task 21 (Capstone II)
 The programme is a task manager, which allows users to "sign in" and use the programme to view their tasks, mark them as read, and add new tasks. For the admin user, there is the additional functionality of registering new users, viewing all tasks, and generating reports, and displaying task/user statistics. The programme's "internal" data is stored, read from, and written to .txt files.
 
-### Installation instructions
+### Installation
 Navigate to the master branch, open folder **T21/Capstone_II** and download its contents. 
 
 ### Usage
@@ -39,7 +48,7 @@ This programme was substantially based on a template provided by HyperionDev, an
 ## Task 36 (Capstone IV)
 This project is an exploratory data analysis on the [Forbes Richest Athletes dataset](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T36/Capstone_IV/fra.csv). 
 
-### Installation instructions
+### Installation
 Navigate to the master branch, open folder **T36/Capstone_IV** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
 
 ### Usage
@@ -49,10 +58,13 @@ You can view the complete analysis by simply opening [Capstone IV - Atheletes.ip
 ## Task 39 (Capstone V)
 This project is a database designed to be used by a bootstore clerk. The user can add new books to the database, update book information, delete books, search for a book, and to view the entire database. This programme was made using the sqlite3 Python module. 
 
-### Installation instructions
+### Installation
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
 
 ### Usage
+Open the file **Capstone Project V.py** in a suitable IDE and run the programme, ensuring that **ebookstore.db** is also in the working directory. Run the programme. 
+
+You will be confronted with the main menu, as below:
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_main_menu.png)
 
@@ -68,7 +80,7 @@ Navigate to the master branch, open folder **T39/Capstone_V** and download its c
 ## Task 51 (Capstone VII)
 This project is an analysis on the [USArrests dataset](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T51/Capstone_VII/UsArrests.csv), using Principal Components Analysis (PCA) and machine learning methods (hierarchical clustering, *k*-means clustering). 
 
-### Installation instructions
+### Installation
 Navigate to the master branch, open folder **T51/Capstone_VII** and download its contents. Using a suitable code editor that supports .ipynb files (e.g. VS Code), open up Capstone_VII.ipynb. Ensure that the downloaded files are in the working directory, and check that you have installed all of the necessary libraries imported in the first kernel. You should now be able to run the file and make any changes as necessary.
 
 ### Usage
