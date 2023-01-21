@@ -42,7 +42,7 @@ Another example of the programme's functionality is to view the task and user st
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T21_display_statistics.png)
 
-(conclusion texts?)
+This functionality is only available to the admin user, as is the "register new user" function, and "generate reports" function.
 
 ### Additional notes
 This programme was substantially based on a template provided by HyperionDev, and modified to eliminate bugs and add additional functionality.
@@ -64,9 +64,7 @@ This project is a database designed to be used by a bootstore clerk. The user ca
 Navigate to the master branch, open folder **T39/Capstone_V** and download its contents.
 
 ### Usage
-Open the file **Capstone Project V.py** in a suitable IDE and run the programme, ensuring that **ebookstore.db** is also in the working directory. Run the programme. 
-
-You will be confronted with the main menu, as below:
+Open the file **Capstone Project V.py** in a suitable IDE and run the programme, ensuring that **ebookstore.db** is also in the working directory. Run the programme. You will be confronted with the main menu, as below:
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/80012f1d4a4b3f67623fd8e109e147c5be4192a4/T53/imgs/T39_main_menu.png)
 
