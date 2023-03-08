@@ -1,5 +1,5 @@
 # Capstone Projects
-This repository contains some of the Capstone projects I completed during my Data Science bootcamp with HyperionDev. All programmes have been written in Python.
+This repository contains some of the Capstone projects I completed during my Data Science bootcamp. All programmes have been written in Python.
 
 ## Contents
 - T21 / **Capstone II** - Task Manager
