@@ -24,7 +24,7 @@ The programme is a task manager, which allows users to "sign in" and use the pro
 Navigate to the master branch, open folder **T21/Capstone_II** and download its contents. 
 
 ### Usage
-Open the file **task_manager.py** in a suitable IDE and run the programme, ensuring that the downloaded .txt files are also in the working directory. Run the programme.
+Open the file **task_manager.py** in a suitable IDE and run the programme, ensuring that the downloaded .txt files are also in the working directory. 
 
 ![](https://github.com/victoriadw/CapstoneProjects/blob/364de590b1315d23e3c184be83684165d3c8a2f7/T53/imgs/T21_login.png)
 
